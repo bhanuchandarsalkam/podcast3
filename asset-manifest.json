@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/podcast3/static/css/main.742df49d.css",
+    "main.js": "/podcast3/static/js/main.333bbd09.js",
+    "index.html": "/podcast3/index.html",
+    "main.742df49d.css.map": "/podcast3/static/css/main.742df49d.css.map",
+    "main.333bbd09.js.map": "/podcast3/static/js/main.333bbd09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.742df49d.css",
+    "static/js/main.333bbd09.js"
+  ]
+}
